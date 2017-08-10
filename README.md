@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
@@ -50,7 +49,6 @@ configuration relevant for your application.
 The app skeleton uses a subset of [Foundation](http://foundation.zurb.com/) CSS
 framework by default. You can, however, replace it with any other library or
 custom styles.
-=======
+
 # gdo
 Gestão das Disciplinas Online
->>>>>>> 20785a512fc72c131c3d6d71283d45eecf9a1d3f
